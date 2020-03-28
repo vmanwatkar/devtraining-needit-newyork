@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds">
+    <pa_thresholds action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate/>
+        <all_time_amount/>
+        <breakdown/>
+        <breakdown_level2/>
+        <condition>more_than</condition>
+        <create_score_notes>true</create_score_notes>
+        <display>NeedIt: Due Monthly</display>
+        <element/>
+        <element_level2/>
+        <indicator display_value="NeedIt: Due Monthly">ead7f9c6db6b4010c669f53a299619f0</indicator>
+        <last_check>20200301</last_check>
+        <owner display_value="Vinayak Manwatkar">ad1bf008db230010c669f53a299619f8</owner>
+        <sys_class_name>pa_thresholds</sys_class_name>
+        <sys_created_by>vmanwatkar</sys_created_by>
+        <sys_created_on>2020-03-22 09:37:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>82bea688db330010c669f53a29961985</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_thresholds_82bea688db330010c669f53a29961985</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-03-22 22:00:01</sys_updated_on>
+        <value>225</value>
+    </pa_thresholds>
+</record_update>
